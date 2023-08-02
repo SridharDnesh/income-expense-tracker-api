@@ -1,0 +1,28 @@
+{
+  "name": "income-expense-tracker",
+  "version": "1.0.0",
+  "description": "A simple application of Sheets API which directly updates the sheet with the transaction.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SridharDnesh/income-expense-tracker-api.git"
+  },
+  "keywords": [
+    "income",
+    "expense",
+    "sheets-api",
+    "transaction"
+  ],
+  "author": "Sridharan <sridharan7614@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SridharDnesh/income-expense-tracker-api/issues"
+  },
+  "homepage": "https://github.com/SridharDnesh/income-expense-tracker-api#readme",
+  "dependencies": {
+    "fastify": "^4.21.0"
+  }
+}
